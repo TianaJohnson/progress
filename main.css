@@ -1,8 +1,12 @@
-section {
+#product-main {
     background:pink;
 }
 
 h1 {
    color: white;
-   font family: sans-serif; 
+   font-family: sans-serif; 
+}
+
+.one-two {
+    color: #22dddd
 }
