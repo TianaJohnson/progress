@@ -1,5 +1,5 @@
-#product-main {
-    background:pink;
+#product-main, #product-sub {
+    background:red;
 }
 
 h1 {
@@ -8,9 +8,9 @@ h1 {
 }
 
 .one-two {
-    color: #22dddd
+    color: white;
 }
 
 body {
-    background-color: teal;
+    background-color:white;
 }
